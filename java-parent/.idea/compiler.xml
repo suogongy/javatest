@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="java-basic" />
+        <module name="java-parent" />
       </profile>
     </annotationProcessing>
   </component>
